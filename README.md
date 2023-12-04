@@ -33,6 +33,16 @@
 Blank line
 Blank line
 
-```{r echo=FALSE, eval=FALSE}
-All the comments!
-```
+~~~
+# This is a
+# multiline
+# comment
+...
+
+
+[](
+Your comments go here however you cannot leave
+// a blank line so fill blank lines with
+//
+Something
+)

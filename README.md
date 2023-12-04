@@ -25,7 +25,6 @@
 
 
 <empty line>
-[whatever comment text]::
 
 
 

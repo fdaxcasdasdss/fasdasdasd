@@ -32,3 +32,7 @@
 
 Blank line
 Blank line
+
+```{r echo=FALSE, eval=FALSE}
+All the comments!
+```

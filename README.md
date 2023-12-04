@@ -11,8 +11,6 @@
   <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
 </a> -->
 
-#### hidden field with metadata 👇
-
-<div class="meta_for_parser tablespecs" style="visibility:hidden">{"dataname":"environment","colvar":"varname","colval":"value"}</div>
-
-#### hidden field with metadata 👆
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)

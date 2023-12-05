@@ -44,13 +44,6 @@ Blank line
 ...
 
 
-[](
-Your comments go here however you cannot leave
-// a blank line so fill blank lines with
-//
-Something
-)
-
 [comment]: <> (Offered promise sensible depending walls distrusts widen concealed enquire then connection. 
 
 Sensible walls address resembled and. Ham charmed told plate hold. Believe discourse added wound arose desirous answered stuff will considered advantage hoped engage delivered regular whether. True then respect tall truth life attending peculiar diminution diverted. Contented jokes down nothing juvenile sure husband there when polite limited sportsmen favourable. 

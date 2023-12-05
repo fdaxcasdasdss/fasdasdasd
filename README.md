@@ -7,7 +7,7 @@
 
 <a href="https://www.youtube.com/watch?v=i_JuxYKkDP4"><img src="https://github.com/fdaxcasdasdss/fasdasdasd/assets/152296275/148fe0ff-1da6-43a9-9a92-4fee1e354083" /></a>
 
-<a href='goo.g'>
+<a href='https://www.youtube.com/watch?v=i_JuxYKkDP4'>
 <img src="https://github.com/fdaxcasdasdss/fasdasdasd/assets/152296275/148fe0ff-1da6-43a9-9a92-4fee1e354083">
 
 
